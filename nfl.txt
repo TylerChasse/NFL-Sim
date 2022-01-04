@@ -1,0 +1,137 @@
+Simulation Predictions(12/22, Week 16, 10 season sims before 10 playoffs sims): # season: 45 mins, playoffs: 1 min per
+Season Results:
+    Carolina Record: 18-26-0
+    Tampa Bay Record: 29-15-0
+    Chicago Record: 15-29-0
+    Minnesota Record: 23-20-1
+    Cincinnati Record: 26-18-0
+    Cleveland Record: 18-26-0
+    Dallas Record: 24-20-0
+    Philadelphia Record: 26-18-0
+    Green Bay Record: 32-12-0
+    Detroit Record: 11-32-1
+    Indianapolis Record: 27-17-0
+    Jacksonville Record: 10-34-0
+    New England Record: 32-12-0
+    Miami Record: 18-26-0
+    New Orleans Record: 27-17-0
+    Atlanta Record: 15-29-0
+    NY Jets Record: 11-32-1
+    Buffalo Record: 26-17-1
+    Pittsburgh Record: 22-21-1
+    Baltimore Record: 22-22-0
+    Tennessee Record: 27-17-0
+    Houston Record: 16-28-0
+    Washington Record: 17-27-0
+    NY Giants Record: 23-21-0
+    Kansas City Record: 24-20-0
+    Denver Record: 24-19-1
+    LA Chargers Record: 23-20-1
+    Las Vegas Record: 15-29-0
+    Seattle Record: 20-23-1
+    Arizona Record: 30-13-1
+    San Francisco Record: 22-21-1
+    LA Rams Record: 25-17-2
+
+    East Seed #1: NE
+    East Seed #2: TEN
+    East Seed #3: CIN
+    East Seed #4: KC
+    East Seed #5: IND
+    East Seed #6: BUF
+    East Seed #7: DEN
+    East Seed #8: LAC
+    East Seed #9: PIT
+    East Seed #10: BAL
+    East Seed #11: CLE
+    East Seed #12: MIA
+    East Seed #13: HOU
+    East Seed #14: LV
+    East Seed #15: NYJ
+    East Seed #16: JAX
+
+    West Seed #1: GB
+    West Seed #2: ARI
+    West Seed #3: TB
+    West Seed #4: PHI
+    West Seed #5: NO
+    West Seed #6: LAR
+    West Seed #7: DAL
+    West Seed #8: MIN
+    West Seed #9: NYG
+    West Seed #10: SF
+    West Seed #11: SEA
+    West Seed #12: CAR
+    West Seed #13: WAS
+    West Seed #14: CHI
+    West Seed #15: ATL
+    West Seed #16: DET
+
+Playoffs 1:
+ARI beat DEN 31-28
+ARI beat DEN in the Superbowl
+
+Playoffs 2:
+GB beat NE 20-19
+GB beat NE in the Superbowl
+
+Playoffs 3:
+GB beat KC 27-24
+GB beat KC in the Superbowl
+
+Playoffs 4:
+TB beat NE 37-20
+TB beat NE in the Superbowl
+
+Playoffs 5:
+TB beat NE 7-3
+TB beat NE in the Superbowl
+
+Playoffs 6:
+CIN beat GB 45-38
+CIN beat GB in the Superbowl
+
+Playoffs 7:
+TEN beat PHI 21-14
+TEN beat PHI in the Superbowl
+
+Playoffs 8:
+LAR beat BUF 56-23
+LAR beat BUF in the Superbowl
+
+Playoffs 9:
+CIN beat GB 28-25
+CIN beat GB in the Superbowl
+
+Playoffs 10:
+NE beat ARI 17-13
+NE beat ARI in the Superbowl
+
+Most Common Playoff Results:
+    GB wins SB 2/10
+    TB wins SB 2/10
+    CIN wins SB 2/10
+    GB in SB 4/10
+    NE in SB 4/10
+
+
+### down 8 go for 2?
+### onside kick situations?
+    ### xp chance? ###
+### 2 min drive / clutch stats
+    # more chance for tov on downs and no chance to punt
+    # even more chance for tov on downs and no chance for fga when down more than 3
+### defensive tds
+### adding to stats after each drive
+### change how tov on 4th works
+    ### team who did not start with ball starts with it in 2nd half ###
+    ### home field advantage ###
+    ### won by an average of ? points (margin) ### avg points per sim game
+### add system to start after games have already been played that week (Fri - Mon)
+### change how season is simmed
+
+nfl avg points: 22.9
+
+45 secs added: 23.005 ###
+40 secs added: 23.5875
+35 secs added: 23.896
